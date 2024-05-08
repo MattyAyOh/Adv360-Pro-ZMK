@@ -3,6 +3,7 @@
 Matt's Notes:
 - `alttab` branch has the manually overridden macro that actually has the correct human key presses that will cause a cmd tab. Without this, the keys are pressed too close together
 - Go to the Web GUI (https://kinesiscorporation.github.io/Adv360-Pro-GUI) and change branch to `alttab`. Then update keys, commit changes, and flash firmware
+- To get into bootloading mode, just use the paperclip to push the reset button twice in a row
 
 ## Modifying the keymap
 
