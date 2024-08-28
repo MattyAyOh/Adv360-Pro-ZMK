@@ -5,6 +5,12 @@ Matt's Notes:
 - Go to the Web GUI (https://kinesiscorporation.github.io/Adv360-Pro-GUI) and change branch to `alttab`. Then update keys, commit changes, and flash firmware
 - To get into bootloading mode, just use the paperclip to push the reset button twice in a row
 
+- Connection Issues:
+Reset the Bluetooth Profiles on the keyboard by pressing Mod + Windows Key. Note: This is unlikely to work if the Right Module is disconnected from the Left Module, which is indicated by the LEDs on the Right Module flashing red.
+Power off both Modules
+Power on the Left Module
+Power on the Right Module
+
 ## Modifying the keymap
 
 [The ZMK documentation](https://zmk.dev/docs) covers both basic and advanced functionality and has a table of OS compatibility for keycodes. Please note that the RGB Underglow, Backlight and Power Management sections are not relevant to the Advantage 360 Pro's custom ZMK fork. For more information see [this note](#note)
