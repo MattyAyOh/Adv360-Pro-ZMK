@@ -6,7 +6,7 @@ Matt's Notes:
 - To get into bootloading mode, just use the paperclip to push the reset button twice in a row
 
 **Connection Issues on Mac:**  
-Reset the Bluetooth Profiles on the keyboard by pressing Mod + Windows Key. Note: This is unlikely to work if the Right Module is disconnected from the Left Module, which is indicated by the LEDs on the Right Module flashing red.  
+Reset the Bluetooth Profiles on the keyboard by pressing Mod + Volume Down Key. Note: This is unlikely to work if the Right Module is disconnected from the Left Module, which is indicated by the LEDs on the Right Module flashing red.  
 Power off both Modules  
 Power on the Left Module  
 Power on the Right Module  
